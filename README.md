@@ -1,2 +1,4 @@
 # Chatham
-Converts images to triangle representation via a hill climbing algorithm. Could be extended to be a hill climbing algorithm.
+Attempts to produce input image using transparent triangles. Can be extended to be a genetic algorithm but essentially just a hill climbinging algorithm with some minima avoidance right now.
+
+-nate
